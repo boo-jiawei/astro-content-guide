@@ -69,3 +69,18 @@ body {
     font-size: 16px;
     color: #666;
 }
+
+.playing-now{
+  color: red; 
+  display: flex;
+}
+
+.playing-next{
+  color: rgb(65, 63, 63);
+  display: flex;
+}
+
+.playing-later{
+  color: grey;
+  display: flex;
+}
